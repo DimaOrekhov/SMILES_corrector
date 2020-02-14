@@ -1,1 +1,1 @@
-# SMILES_corrector
+# SMILES corrector
